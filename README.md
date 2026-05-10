@@ -27,8 +27,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ### 🌱 Atualmente estudando
 - Python
-- HTML
-- CSS
+- Git & GitHub
+- Lógica de programação
+- HTML e CSS
 
 ---
 
