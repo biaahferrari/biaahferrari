@@ -37,11 +37,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 ---
 
 <div> 
-  <a href="SEU-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/anabeatrizferrari" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:beatriz815905@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
